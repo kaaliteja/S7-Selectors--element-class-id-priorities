@@ -1,0 +1,27 @@
+#h1{
+    background-color:palevioletred ;
+    text-align: center;
+    border: 10px solid black;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+    border: 20px solid rgb(17, 17, 16);
+    background-color: blue;
+}
+.AUSPlayer{
+    background-color:yellow;
+}
+    
+.PAKPlayer{
+    background-color: green;
+
+}
+
+#rohitPic{
+    background-color: red;
+    width:400px;
+    border: 20px dashed navy;
+    border-radius: 50%;
+}
